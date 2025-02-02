@@ -30,7 +30,7 @@ If this outputs a version number, LibreOffice is correctly installed.
 
 ### Clone this repository  
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/wps-to-pdf.git
+git clone https://github.com/Neverklear/wps-to-pdf.git
 cd wps-to-pdf
 ```
 
